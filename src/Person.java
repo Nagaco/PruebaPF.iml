@@ -8,6 +8,7 @@ public class Person {
         name="";
         dni="";
         mail="hola";
+        mail="certhbhyuji";
     }
 
     public Person(String name,String idCard) {

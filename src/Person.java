@@ -7,6 +7,7 @@ public class Person {
     public Person() {
         name="";
         dni="";
+        mail="hola";
     }
 
     public Person(String name,String idCard) {
